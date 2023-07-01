@@ -73,8 +73,15 @@ Gelecek sprintlerde daha sık buluşulması gerektiği belirtilmiştir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120
 - **Daily Scrum**: Bayram dolayısıyla toplantıları WhatsApp üzerinden gerçekleştirdik.
-- 
+- https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint1Documents/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-01%20150143.png
+- https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint1Documents/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-01%20150314.png
+-
+- **Sprint board update**:https://trello.com/b/IYuLgpM4/bootcamp-projesi
 
+- **Ürün Durumu**: https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint1Documents/u%C4%B1saga.png
+
+- **Sprint Review**: Alınan Kararlar: Kullanıcı arayüz sayfaları tasarlandı, Level desing üzerinde çalışıldı,Background music halledildi. Toplantılara herkes katılım gösterdi.
+- **Sprint Retrospective**: Bayramdan sonra çalışmalarımızı hızlandırılması gerektiğine vurgu yapıldı. 3. sprintde daha fazla ürün teslim edilmesi gerektiği konuşuldu.
 
 
 
