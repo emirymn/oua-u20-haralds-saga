@@ -69,3 +69,23 @@ Gelecek sprintlerde daha sık buluşulması gerektiği belirtilmiştir.
 
 ---
 
+# SPRİNT 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120
+- **Daily Scrum**: Bayram dolayısıyla toplantıları WhatsApp üzerinden gerçekleştirdik.
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
