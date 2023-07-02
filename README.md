@@ -73,14 +73,20 @@ Gelecek sprintlerde daha sık buluşulması gerektiği belirtilmiştir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120
 - **Daily Scrum**: Bayram dolayısıyla toplantıları WhatsApp üzerinden gerçekleştirdik.
-- https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint1Documents/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-01%20150143.png
-- https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint1Documents/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-01%20150314.png
--
+- https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-01%20150143.png
+- https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-01%20150314.png
+  
 - **Sprint board update**:https://trello.com/b/IYuLgpM4/bootcamp-projesi
 
 - **Ürün Durumu**: https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint1Documents/u%C4%B1saga.png
+- https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/3fb3a767-9f6b-47dc-9c95-db6e676fc6fd.jpg
+- https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/97a6b8c0-76a3-4bf8-afe6-0314b58515e4.jpg
+- https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/9e48f92a-d039-4984-a8c1-ac2e84dc19bd.jpg
+- https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/b565f398-2c9d-4a8d-922d-86de97d640ee.jpg
+- https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/b927c998-d23c-42c9-b8a9-17f0c5332092.jpg
+- https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/f8495cdb-0ee0-4915-a627-ac9131c42586.jpg
 
-- **Sprint Review**: Alınan Kararlar: Kullanıcı arayüz sayfaları tasarlandı, Level desing üzerinde çalışıldı,Background music halledildi. Toplantılara herkes katılım gösterdi.
+- **Sprint Review**: Alınan Kararlar: Bu hafta çeşitli bugları gidermekle uğraştık. Senkronizasyon ve malzeme konularında sıkıntılar yaşadığımız için bunları çözmeye çalıştık. Kullanıcı arayüz sayfaları tasarlandı, Level desing üzerinde çalışıldı,oyuncunun silahı eklendi ve silah değişimi, oyuncu hareketi ve kamera takibi yapıldı.
 - **Sprint Retrospective**: Bayramdan sonra çalışmalarımızı hızlandırılması gerektiğine vurgu yapıldı. 
 
 
