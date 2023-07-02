@@ -87,7 +87,7 @@ Gelecek sprintlerde daha sık buluşulması gerektiği belirtilmiştir.
 - ![Screenshot 5](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/b927c998-d23c-42c9-b8a9-17f0c5332092.jpg)
 - ![Screenshot 6](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/f8495cdb-0ee0-4915-a627-ac9131c42586.jpg)
 
-- **Sprint Review**: Alınan Kararlar: Bu hafta çeşitli bugları gidermekle uğraştık. Senkronizasyon ve malzeme konularında sıkıntılar yaşadığımız için bunları çözmeye çalıştık. Kullanıcı arayüz sayfaları tasarlandı, Level desing üzerinde çalışıldı,oyuncunun silahı eklendi ve silah değişimi, oyuncu hareketi ve kamera takibi yapıldı.
+- **Sprint Review**: Alınan Kararlar: Bu hafta çeşitli bugları gidermekle uğraştık. Senkronizasyon ve malzeme konularında sıkıntılar yaşadığımız için bunları çözmeye çalıştık. Kullanıcı arayüz sayfaları tasarlandı, Level desing üzerinde çalışıldı,oyuncunun silahı eklendi ve silah değişimi, oyuncu hareketi ve kamera takibi yapıldı,inventory UI eklendi + açıp kapama kodu yazıldı.
 - **Sprint Retrospective**: Bayramdan sonra çalışmalarımızı hızlandırılması gerektiğine vurgu yapıldı. 
 
 
