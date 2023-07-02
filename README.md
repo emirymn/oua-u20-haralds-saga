@@ -81,10 +81,7 @@ Gelecek sprintlerde daha sık buluşulması gerektiği belirtilmiştir.
 - **Ürün Durumu**: https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint1Documents/u%C4%B1saga.png
 
 - **Sprint Review**: Alınan Kararlar: Kullanıcı arayüz sayfaları tasarlandı, Level desing üzerinde çalışıldı,Background music halledildi. Toplantılara herkes katılım gösterdi.
-- **Sprint Retrospective**: Bayramdan sonra çalışmalarımızı hızlandırılması gerektiğine vurgu yapıldı. 3. sprintde daha fazla ürün teslim edilmesi gerektiği konuşuldu.
-
-
-
+- **Sprint Retrospective**: Bayramdan sonra çalışmalarımızı hızlandırılması gerektiğine vurgu yapıldı. 
 
 
 
