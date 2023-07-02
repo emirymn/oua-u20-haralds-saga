@@ -79,7 +79,7 @@ Gelecek sprintlerde daha sık buluşulması gerektiği belirtilmiştir.
 - **Sprint board update**:https://trello.com/b/IYuLgpM4/bootcamp-projesi
 
 - **Ürün Durumu**: https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint1Documents/u%C4%B1saga.png
-- https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/3fb3a767-9f6b-47dc-9c95-db6e676fc6fd.jpg
+- ![Screenshot 1]https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/3fb3a767-9f6b-47dc-9c95-db6e676fc6fd.jpg
 - https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/97a6b8c0-76a3-4bf8-afe6-0314b58515e4.jpg
 - https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/9e48f92a-d039-4984-a8c1-ac2e84dc19bd.jpg
 - https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/b565f398-2c9d-4a8d-922d-86de97d640ee.jpg
