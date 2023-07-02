@@ -46,6 +46,7 @@ Oyunca fps ,singler player, envanter,craf sistemi, life skill,exploration var.
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 120 ile başlaması gerektiğine karar verildi.
 
 - **Daily Scrum**: Discord ve whatsapp üzerinden yapılmakta.
+- ![Screenshot 1](https://github.com/sudercin/oua-u20-haraldssaga/blob/main/ProjectManagement/Sprint1Documents/teampic.jpg)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/sudercin/oua-u20-haraldssaga/blob/main/ProjectManagement/Sprint1Documents/deneme1.png)
