@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 805f28014e7d44a4cb5423c3770e45a5
+  productGUID: 592b1ab2ab3223f4cb91c9d7ee5c2573
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -841,14 +841,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 3
   m_MobileRenderingPath: 1
-  metroPackageName: VikingSaga
+  metroPackageName: HaraldsSaga
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: VikingSaga
+  metroApplicationDescription: HaraldsSaga
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 1
