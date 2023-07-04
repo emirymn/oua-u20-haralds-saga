@@ -73,6 +73,7 @@ Gelecek sprintlerde daha sık buluşulması gerektiği belirtilmiştir.
 # SPRİNT 2
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120
+- **Puan tamamlama mantığı**:  Toplamda proje boyunca tamamlanması gereken 360 puanlık birikim bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 120 olmasına karar verildi.
 - **Daily Scrum**: Bayram dolayısıyla toplantıları WhatsApp üzerinden gerçekleştirdik.
 - ![Screenshot 1](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-01%20150143.png)
 - ![Screenshot 2](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-01%20150314.png)
