@@ -73,11 +73,15 @@ Gelecek sprintlerde daha sık buluşulması gerektiği belirtilmiştir.
 # SPRİNT 2
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120
+- **Puan tamamlama mantığı**:  Toplamda proje boyunca tamamlanması gereken 360 puanlık birikim bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 120 olmasına karar verildi.
 - **Daily Scrum**: Bayram dolayısıyla toplantıları WhatsApp üzerinden gerçekleştirdik.
 - ![Screenshot 1](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-01%20150143.png)
 - ![Screenshot 2](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-01%20150314.png)
   
-- **Sprint board update**:https://trello.com/b/IYuLgpM4/bootcamp-projesi
+- **Sprint board update**:
+- ![Screenshot 7](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/Screenshot%202023-07-04%20124054.png)
+
+
 
 - **Ürün Durumu**:
 - ![Screenshot 7](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint1Documents/u%C4%B1saga.png)
@@ -90,8 +94,6 @@ Gelecek sprintlerde daha sık buluşulması gerektiği belirtilmiştir.
 
 - **Sprint Review**: Alınan Kararlar: Bu hafta çeşitli bugları gidermekle uğraştık. Senkronizasyon ve malzeme konularında sıkıntılar yaşadığımız için bunları çözmeye çalıştık. Kullanıcı arayüz sayfaları tasarlandı, Level desing üzerinde çalışıldı,oyuncunun silahı eklendi ve silah değişimi, oyuncu hareketi ve kamera takibi yapıldı,inventory UI eklendi + açıp kapama kodu yazıldı.
 - **Sprint Retrospective**: Bayramdan sonra çalışmalarımızı hızlandırılması gerektiğine vurgu yapıldı. 
-
-
 
 
 
