@@ -106,8 +106,7 @@ Gelecek sprintlerde daha sık buluşulması gerektiği belirtilmiştir.
 -   ![Screenshot 1](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/trello.png)
 -    **Ürün Durumu**:
 -    
--    **Sprint Review**:
-
+-    **Sprint Review**: Envanter sistemi tamamlandı. Bug fixing: Yürüme patikalarındaki collider düzeltildi. Navmesh sistemini düzeltik.Background music ayarlandı.
 -    **Sprint Retrospective**: Takım üyelerinin gelecek projelerde daha iyi araştırma yapmaları konusuna vurgu yapılmıştır. 
 
 
