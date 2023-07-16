@@ -96,6 +96,10 @@ Gelecek sprintlerde daha sık buluşulması gerektiği belirtilmiştir.
 - **Sprint Retrospective**: Bayramdan sonra çalışmalarımızı hızlandırılması gerektiğine vurgu yapıldı.
 
 - # Sprint 3
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde son sprint'in 120 olmalıdır.
+- **Daily Scrum**: Toplantıları whatsApp ve discord üzerinden gerçekleştirildi. 
 
 
 
