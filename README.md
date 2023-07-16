@@ -104,6 +104,7 @@ Gelecek sprintlerde daha sık buluşulması gerektiği belirtilmiştir.
 -  ![Screenshot 2](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/dc%20sohbet%202.png)
 -   **Sprint board update**:
 -   ![Screenshot 1](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/trello.png)
+-    **Ürün Durumu**:
 
 
 
