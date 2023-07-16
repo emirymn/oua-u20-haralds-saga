@@ -105,6 +105,10 @@ Gelecek sprintlerde daha sık buluşulması gerektiği belirtilmiştir.
 -   **Sprint board update**:
 -   ![Screenshot 1](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/trello.png)
 -    **Ürün Durumu**:
+-    
+-    **Sprint Review**:
+
+-    **Sprint Retrospective**: Takım üyelerinin gelecek projelerde daha iyi araştırma yapmaları konusuna vurgu yapılmıştır. 
 
 
 
