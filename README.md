@@ -99,7 +99,9 @@ Gelecek sprintlerde daha sık buluşulması gerektiği belirtilmiştir.
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde son sprint'in 120 olmalıdır.
-- **Daily Scrum**: Toplantıları whatsApp ve discord üzerinden gerçekleştirildi. 
+- **Daily Scrum**: Toplantıları whatsApp ve discord üzerinden gerçekleştirildi.
+-  ![Screenshot 1](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/dc%20sohbet1.png)
+-  ![Screenshot 2](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/dc%20sohbet%202.png)
 
 
 
