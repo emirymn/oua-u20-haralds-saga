@@ -108,6 +108,7 @@ Gelecek sprintlerde daha sık buluşulması gerektiği belirtilmiştir.
 -    ![Screenshot 1](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/image.png)
 -    ![Screenshot 2](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/image%20(1).png)
 -    ![Screenshot 3](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/image%20(3).png)
+-   ![Screenshot 3](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/image%20(4).png)
 -    **Sprint Review**:Alınan Kararlar: Bir önceki sprintde bahsettiğimiz bugların çoğunu düzelttik. Envanter sistemi tamamlandı. Bug fixing: Yürüme patikalarındaki collider düzeltildi. Navmesh sistemini düzeltik.Background music ayarlandı.
 -    **Sprint Retrospective**: Takım üyelerinin gelecek projelerde daha iyi araştırma yapmaları konusuna vurgu yapılmıştır. 
 
