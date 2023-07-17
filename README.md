@@ -93,7 +93,26 @@ Gelecek sprintlerde daha sık buluşulması gerektiği belirtilmiştir.
 - ![Screenshot 6](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint2Doc/f8495cdb-0ee0-4915-a627-ac9131c42586.jpg)
 
 - **Sprint Review**: Alınan Kararlar: Bu hafta çeşitli bugları gidermekle uğraştık. Senkronizasyon ve malzeme konularında sıkıntılar yaşadığımız için bunları çözmeye çalıştık. Kullanıcı arayüz sayfaları tasarlandı, Level desing üzerinde çalışıldı,oyuncunun silahı eklendi ve silah değişimi, oyuncu hareketi ve kamera takibi yapıldı,inventory UI eklendi + açıp kapama kodu yazıldı.
-- **Sprint Retrospective**: Bayramdan sonra çalışmalarımızı hızlandırılması gerektiğine vurgu yapıldı. 
+- **Sprint Retrospective**: Bayramdan sonra çalışmalarımızı hızlandırılması gerektiğine vurgu yapıldı.
+
+- # Sprint 3
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde son sprint'in puanı 120 olmalıdır.
+- **Daily Scrum**: Toplantılar whatsApp ve discord üzerinden gerçekleştirildi. Birkaç konuşma tarafımızdan sizlerle paylaşılmaktadır.
+-  ![Screenshot 1](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/dc%20sohbet1.png)
+-  ![Screenshot 2](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/dc%20sohbet%202.png)
+-   **Sprint board update**:
+-   ![Screenshot 1](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/trello.png)
+-    **Ürün Durumu**:
+-    ![Screenshot 1](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/image.png)
+-    ![Screenshot 2](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/image%20(1).png)
+-    ![Screenshot 3](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/image%20(3).png)
+-   ![Screenshot 3](https://github.com/emirymn/oua-u20-haralds-saga/blob/main/ProjectManagement/Sprint3Doc/image%20(4).png)
+-    **Sprint Review**:Alınan Kararlar: Bir önceki sprintde bahsettiğimiz bugların çoğunu düzelttik. Envanter sistemi tamamlandı. Bug fixing: Yürüme patikalarındaki collider düzeltildi. Navmesh sistemini düzeltik.Background music ayarlandı.
+-    **Sprint Retrospective**: Takım üyelerinin gelecek projelerde daha iyi araştırma yapmaları konusuna vurgu yapılmıştır. 
+
+
 
 
 
